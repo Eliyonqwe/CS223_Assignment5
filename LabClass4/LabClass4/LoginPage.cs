@@ -48,5 +48,25 @@ namespace LabClass4
                 MessageBox.Show("Error: Incorrect username or password!");
             }
         }
+
+        private void LoginPage_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pass_txt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void uname_txt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
